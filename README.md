@@ -6,6 +6,7 @@ This repo contains guides and other reference material that may be useful when l
 - How to set up a Jupyter Dashboard server/client
 
 ## Resources
+- [Data science](data_science.md)
 - [Python](python.md)
 - [git](git.md)
 
