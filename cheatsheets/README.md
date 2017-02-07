@@ -15,3 +15,4 @@
   - http://onlywei.github.io/explain-git-with-d3/
   - https://duckduckgo.com/?q=git+cheat+sheet&t=h_&ia=cheatsheet&iax=1
 - Markdown
+  - https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
