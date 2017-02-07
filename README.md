@@ -5,6 +5,10 @@ This repo contains guides and other reference material that may be useful when l
 - How to set up a conda environment for data science
 - How to set up a Jupyter Dashboard server/client
 
+## Resources
+- [Python](python.md)
+- [git](git.md)
+
 ## Learning by example
 ### Cheatsheets
 - Python
