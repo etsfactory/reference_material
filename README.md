@@ -19,7 +19,6 @@ Collection of libraries/projects whose simplicity makes them ideal as a starting
 - Cython: [pyflux](https://github.com/RJT1990/pyflux)
 - Sphinx:
 - Versioneer:
-
 - Continuous integration tools:
   - Appveyor CI: [geopandas](https://github.com/geopandas/geopandas/blob/master/appveyor.yml)
   - Travis CI: [geopandas](https://github.com/geopandas/geopandas/blob/master/.travis.yml)
