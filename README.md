@@ -11,23 +11,7 @@ This repo contains guides and other reference material that may be useful when l
 - [git](resources/git.md)
 
 ## Learning by example
-### Cheatsheets
-- Python
-  - Pandas
-    - https://github.com/pandas-dev/pandas/blob/master/doc/cheatsheet/Pandas_Cheat_Sheet.pdf
-  - IPython
-    - https://damontallen.github.io/IPython-quick-ref-sheets/
-  - Scikit-learn
-    - https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Scikit_Learn_Cheat_Sheet_Python.pdf
-- reStructuredText
-  - https://github.com/ralsina/rst-cheatsheet/blob/master/rst-cheatsheet.rst
-  - Sphinx
-    - http://udig.refractions.net/files/docs/latest/user/docguide/sphinxSyntax.html
-- Git
-  - http://ndpsoftware.com/git-cheatsheet.html
-  - http://onlywei.github.io/explain-git-with-d3/
-  - https://duckduckgo.com/?q=git+cheat+sheet&t=h_&ia=cheatsheet&iax=1
-- Markdown
+### [Cheatsheets](cheatsheets/README.md)
 
 ### Real-world examples
 Collection of libraries/projects whose simplicity makes them ideal as a starting point for building more complex solutions.
