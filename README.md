@@ -1,11 +1,15 @@
 # Reference material
 This repo contains guides and other reference material that may be useful when learning how to use a particular tool or programming language.
 
-
-
+## Guides
+- How to set up a conda environment for data science
+- How to set up a Jupyter Dashboard server/client
 
 ## Learning by example
 ### Cheatsheets
+- Python
+- reStructuredText
+- Git
 - Markdown
 
 ### Real-world examples
