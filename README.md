@@ -9,6 +9,7 @@ This repo contains guides and other reference material that may be useful when l
 - [Data science](resources/data_science.md)
 - [Python](resources/python.md)
 - [git](resources/git.md)
+- [reStructuredText](resources/restructuredtext.md)
 
 ## Learning by example
 ### [Cheatsheets](cheatsheets/README.md)
