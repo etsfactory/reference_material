@@ -14,3 +14,4 @@
 |__Text Files__                                                                          ||
 |Markdown         | https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet|
 |reStructuredText | https://github.com/ralsina/rst-cheatsheet/blob/master/rst-cheatsheet.rst|
+|MediaWiki        | https://www.mediawiki.org/wiki/Help:Formatting|
