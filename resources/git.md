@@ -1,4 +1,5 @@
 # Git Resources
+- [A collection of cool hidden and not so hidden features of Git and GitHub.](http://git.io/sheet)
 - [Pro Git book](https://git-scm.com/book/en/v2)
 - [Atlassian Git tutorial](https://www.atlassian.com/git/tutorials/)
 - [Gitref](http://gitref.org/index.html)
