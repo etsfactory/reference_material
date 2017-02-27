@@ -4,6 +4,7 @@ This repo contains guides and other reference material that may be useful when l
 ## Guides
 - [How to set up a conda environment for data science](guides/conda.md)
 - How to set up a Jupyter Dashboard server/client
+- [How to use the line profiler](guides/profiler.md)
 
 ## Resources
 - [Data science](resources/data_science.md)
