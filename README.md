@@ -12,6 +12,7 @@ This repo contains guides and other reference material that may be useful when l
 - [git](resources/git.md)
 - [reStructuredText](resources/restructuredtext.md)
 - [Quantitative finance](resources/quant_finance.md)
+- [Floating-point arithmetic](resources/floating_point)
 
 ## Learning by example
 ### [Cheatsheets](cheatsheets/README.md)
