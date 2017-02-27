@@ -39,6 +39,7 @@
 ## Performance:
 - [Performance tuning](http://blog.explainmydata.com/2012/07/expensive-lessons-in-python-performance.html)
 - [The magic of timeit](https://ipython.org/ipython-doc/3/interactive/magics.html#magic-timeit)
+- [Timing & profiling](http://pynash.org/2013/03/06/timing-and-profiling/)
 
 # Accelerating Python
 ## Reflections:
