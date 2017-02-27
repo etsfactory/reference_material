@@ -25,8 +25,8 @@
 - [How to think like a Pythonist](http://python.net/crew/mwh/hacks/objectthink.html#question)
 - [Namespaces and variable scopes](http://nbviewer.jupyter.org/github/rasbt/python_reference/blob/master/tutorials/scope_resolution_legb_rule.ipynb)
 - [A collection of not-so-obvious Python stuff you should know!](http://nbviewer.jupyter.org/github/rasbt/python_reference/blob/master/tutorials/not_so_obvious_python_stuff.ipynb)
-- [Magic methods](https://github.com/RafeKettler/magicmethods/blob/master/magicmethods.markdown) (function between double underscore, ex: . __str__)
-- [What are the “best practices” for using import in a module?](https://docs.python.org/3/faq/programming.html#what-are-the-best-practices-for-using-import-in-a-module) And those links ([A](http://softwareengineering.stackexchange.com/questions/187403/import-module-vs-from-module-import-function/187471) y [B](http://effbot.org/zone/import-confusion.htm)) for those who want further details
+- [Magic methods](https://github.com/RafeKettler/magicmethods/blob/master/magicmethods.markdown) (function between double underscore, ex: .\_\_str\_\_)
+- [What are the “best practices” for using import in a module?](https://docs.python.org/3/faq/programming.html#what-are-the-best-practices-for-using-import-in-a-module) And those links ([A](http://softwareengineering.stackexchange.com/questions/187403/import-module-vs-from-module-import-function/187471) and [B](http://effbot.org/zone/import-confusion.htm)) for those who want further details
 - [setup.py vs. requirements.txt](https://caremad.io/posts/2013/07/setup-vs-requirement/)
 
 ## Definitive guides to specific topics:

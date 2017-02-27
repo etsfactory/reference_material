@@ -8,11 +8,13 @@
 	echo “”> c:\Anaconda3\.nonadmin
 	```
 - Create the environment named ‘environment_name’
+
     ```bash
     conda create -n environment_name
     ```
 
 ## Activate environment
+
 ```bash
 activate environment_name
 ```
