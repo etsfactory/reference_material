@@ -10,6 +10,7 @@
 
 - [quantopian/empyrical](https://github.com/quantopian/empyrical) (formerly qrisk)
 - [pmorissette/ffn](https://github.com/pmorissette/ffn)
+- [QuantLib](http://quantlib.org) (modelling, risk management, calendar computations, etc.)
 
 ### Financial time series modelling
 
