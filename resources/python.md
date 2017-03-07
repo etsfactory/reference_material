@@ -97,6 +97,10 @@
 - [Extending Pandas](http://pandas.pydata.org/pandas-docs/stable/internals.html)
 - [Pandas under the hood](http://www.jeffreytratner.com/slides/pandas-under-the-hood-pydata-seattle-2015.pdf) (Block Manager, indexes, etc.)
 
+#### Performance:
+
+- [Performance tips & tricks](https://github.com/jreback/PandasTalks/tree/master/performance/may_2016)
+
 ### Plotting Charts and Graphics
 
 #### Matplotlib:
