@@ -1,5 +1,5 @@
 # Git Resources
-## Long tutorial
+## Long tutorials
 - [Pro Git book](https://git-scm.com/book/en/v2)
 - [Atlassian Git tutorial](https://www.atlassian.com/git/tutorials/)
 
