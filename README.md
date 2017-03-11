@@ -5,7 +5,7 @@ This repo contains guides and other reference material that may be useful when l
 - [How to set up a conda environment for data science](guides/conda.md)
 - How to set up a Jupyter Dashboard server/client
 - [How to use the line profiler](guides/profiler.md)
-- [How install Jupyter Notebooks Extensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions)
+- [How to install Jupyter notebooks extensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions)
 
 ## Resources
 - [Data science](resources/data_science.md)
