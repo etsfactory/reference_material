@@ -52,6 +52,7 @@
 - [Numexpr](https://github.com/pydata/numexpr)
 
 ## IPython
+- [IPython or Jupyter?](https://www.datacamp.com/community/blog/ipython-jupyter#gs.gMegJxs)
 - [What is IPython? (Python vs IPython vs Jupyter)](https://plot.ly/python/ipython-vs-python/)
 - [Built-in magics reference](https://ipython.org/ipython-doc/3/interactive/magics.html)
 - [Parallel computation with IPython](http://ipyparallel.readthedocs.io/en/stable/index.html)
