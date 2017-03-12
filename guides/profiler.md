@@ -1,4 +1,4 @@
-# How to use the profiler
+# How to use the IPython profiler
 ## Line profiling
 In a command line:
 
