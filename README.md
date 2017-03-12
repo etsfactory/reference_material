@@ -22,6 +22,11 @@ This repo contains guides and other reference material that may be useful when l
 - [Machine Learning for Trading, Georgia Tech CS 7646 @ Udacity](https://www.udacity.com/course/machine-learning-for-trading--ud501)
 - [Statistical Learning by Hastie & Tibshirani @ Stanford](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/)
 
+## Online books
+- [Convex optimization, S. Boyd and L. Vandenberghe](http://stanford.edu/~boyd/cvxbook/)
+- [The Elements of Statistical Learning, Data Mining, Inference, and Prediction, T. Hastie, R. Tibshirani and J. Friedman](https://statweb.stanford.edu/~tibs/ElemStatLearn/)
+- [Deep Learning, I. Goodfellow, Y. Bengio and A. Courville](http://www.deeplearningbook.org/)
+- [Neural Networks and Deep Learning, M. Nielsen](http://neuralnetworksanddeeplearning.com)
 
 ## Learning by example
 ### [Cheatsheets](cheatsheets/README.md)
