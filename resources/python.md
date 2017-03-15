@@ -48,7 +48,8 @@
 - [Why Python is Slow: Looking Under the Hood](https://jakevdp.github.io/blog/2014/05/09/why-python-is-slow/)
 
 ### Some tools:
-- [Numba vs Cython comparison series](http://jakevdp.github.io/blog/2012/08/24/numba-vs-cython/)
+- [Numba vs Cython comparison](http://jakevdp.github.io/blog/2012/08/24/numba-vs-cython/)
+- [Julia vs Python optimized comparison](https://www.ibm.com/developerworks/community/blogs/jfp/entry/Python_Meets_Julia_Micro_Performance?lang=en)
 - [Numexpr](https://github.com/pydata/numexpr)
 
 ## IPython
