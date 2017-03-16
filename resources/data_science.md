@@ -9,4 +9,6 @@
 - Theory and Algorithms for Forecasting Non-Stationary Time Series (tutorial at Neural Information Processing Systems Conference - NIPS 2016) ([video](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Theory-and-Algorithms-for-Forecasting-Non-Stationary-Time-Series), [paper](http://www.cs.nyu.edu/~mohri/pub/ts.pdf))
 
 ## Machine learning
-- ...
+
+### XGBoost
+- Course: [Practical XGBoost in Python](http://education.parrotprediction.teachable.com/p/practical-xgboost-in-python)
