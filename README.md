@@ -14,6 +14,7 @@ This repo contains guides and other reference material that may be useful when l
 - [reStructuredText](resources/restructuredtext.md)
 - [Quantitative finance](resources/quant_finance.md)
 - [Floating-point arithmetic](resources/floating_point.md)
+- [How to ask questions the smart way](http://www.catb.org/~esr/faqs/smart-questions.html)
 
 ## Online courses
 
