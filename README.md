@@ -37,6 +37,7 @@ Collection of libraries/projects whose simplicity makes them ideal as a starting
 - Pandas internals: [geopandas](https://github.com/geopandas/geopandas), [dask](https://github.com/dask/dask)
 - Cython: [pyflux](https://github.com/RJT1990/pyflux)
 - Sphinx: [romanvm/sphinx_tutorial](https://github.com/romanvm/sphinx_tutorial)
+  - Numpy docstring HOWTO: [How to document](https://github.com/numpy/numpy/blob/master/doc/HOWTO_DOCUMENT.rst.txt#class-docstring)
   - Numpy docstring example: [numpy/doc/example](https://github.com/numpy/numpy/blob/master/doc/example.py)
   - Sphinx napoleon extension: [sphinxcontrib/napoleon](http://sphinxcontrib-napoleon.readthedocs.io/en/latest/sphinxcontrib.napoleon.html)
 - Versioneer: [warner/python-versioneer](https://github.com/warner/python-versioneer)
