@@ -51,6 +51,7 @@
 - [Numba vs Cython comparison](http://jakevdp.github.io/blog/2012/08/24/numba-vs-cython/)
 - [Julia vs Python optimized comparison](https://www.ibm.com/developerworks/community/blogs/jfp/entry/Python_Meets_Julia_Micro_Performance?lang=en)
 - [Numexpr](https://github.com/pydata/numexpr)
+- [Cupy (Numpy + Cuda)](https://github.com/cupy/cupy)
 
 ## IPython
 - [IPython or Jupyter?](https://www.datacamp.com/community/blog/ipython-jupyter#gs.gMegJxs)
