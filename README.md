@@ -6,6 +6,7 @@ This repo contains guides and other reference material that may be useful when l
 - How to set up a Jupyter Dashboard server/client
 - [How to use the line profiler](guides/profiler.md)
 - [How to customize Jupyter Notebooks](guides/customize_jupyter_nb.md)
+- [How to create statically-linked `manylinux` wheels](guides/static_manylinux_wheels.md)
 
 ## Resources
 - [Data science](resources/data_science.md)
