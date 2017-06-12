@@ -18,7 +18,7 @@ This repo contains guides and other reference material that may be useful when l
 - [How to ask questions the smart way](http://www.catb.org/~esr/faqs/smart-questions.html)
 
 ## Online courses / Video lectures
-- [Linear Algebra by Gilbert Strang](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
+- [Linear Algebra by Gilbert Strang @ MIT OCW](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
 - [Convex Optimization Short Course by Stephen Boyd](http://stanford.edu/~boyd/papers/cvx_short_course)
 - [Machine Learning by Andrew Ng @ Coursera](https://www.coursera.org/learn/machine-learning)
 - Artificial Intelligence, Berkeley's CS 188 @ edX | [Spring 2015](https://courses.edx.org/courses/BerkeleyX/CS188.1x-4/1T2015/20021a0a32d14a31b087db8d4bb582fd/) | Fall 2014 ([videos](https://www.youtube.com/watch?v=W1S-HSakPTM), [slides](https://edge.edx.org/courses/BerkeleyX/CS188-FA14/FA14/20021a0a32d14a31b087db8d4bb582fd/))
