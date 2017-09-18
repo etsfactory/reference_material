@@ -38,6 +38,7 @@ This repo contains guides and other reference material that may be useful when l
 Collection of libraries/projects whose simplicity makes them ideal as a starting point for building more complex solutions.
 - Pandas internals: [geopandas](https://github.com/geopandas/geopandas), [dask](https://github.com/dask/dask)
 - Cython: [pyflux](https://github.com/RJT1990/pyflux)
+- Numpy C extensions: [py_find_first](https://github.com/roebel/py_find_1st)
 - Sphinx: [romanvm/sphinx_tutorial](https://github.com/romanvm/sphinx_tutorial)
   - Numpy docstring HOWTO: [How to document](https://github.com/numpy/numpy/blob/master/doc/HOWTO_DOCUMENT.rst.txt#class-docstring)
   - Numpy docstring example: [numpy/doc/example](https://github.com/numpy/numpy/blob/master/doc/example.py)
