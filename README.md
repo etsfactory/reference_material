@@ -16,6 +16,7 @@ This repo contains guides and other reference material that may be useful when l
 - [Quantitative finance](resources/quant_finance.md)
 - [Floating-point arithmetic](resources/floating_point.md)
 - [How to ask questions the smart way](http://www.catb.org/~esr/faqs/smart-questions.html)
+- [Accelerating/Parallelizing](resources/parallelizing.md)
 
 ## Online courses / Video lectures
 - [Linear Algebra by Gilbert Strang @ MIT OCW](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
