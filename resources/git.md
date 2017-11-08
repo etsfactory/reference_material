@@ -4,8 +4,9 @@
 - [Atlassian Git tutorial](https://www.atlassian.com/git/tutorials/)
 
 ## Short tutorials
-- [Gitref](http://gitref.org/index.html)
-- [Interactive playground](http://onlywei.github.io/explain-git-with-d3/)
+- [Gitref](http://git.github.io/git-reference/)
+- [Interactive playground: Explain Git with D3](http://onlywei.github.io/explain-git-with-d3/)
+- [Interactive playground: Learn Git Branching](https://learngitbranching.js.org)
 - [A collection of cool hidden and not so hidden features of Git and GitHub.](http://git.io/sheet)
 
 ## Git in layman’s terms
