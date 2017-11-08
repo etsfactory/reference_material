@@ -5,9 +5,11 @@
 
 ## Short tutorials
 - [Gitref](http://git.github.io/git-reference/)
+- [A collection of cool hidden and not so hidden features of Git and GitHub.](http://git.io/sheet)
+
+## Interactive guides
 - [Interactive playground: Explain Git with D3](http://onlywei.github.io/explain-git-with-d3/)
 - [Interactive playground: Learn Git Branching](https://learngitbranching.js.org)
-- [A collection of cool hidden and not so hidden features of Git and GitHub.](http://git.io/sheet)
 
 ## Git in layman’s terms
 - [Understanding git conceptually](https://www.sbf5.com/~cduan/technical/git/)
