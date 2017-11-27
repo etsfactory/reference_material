@@ -2,6 +2,6 @@
 
 - [Jupyter Notebook Extensions](https://github.com/ipython-contrib/jupyter_contrib_nbextensions)
 
-## Customizing Jupyer with Themes
+## Customizing Jupyter with Themes
 
 - [Jupyter Themes ](https://github.com/dunovank/jupyter-themes)
