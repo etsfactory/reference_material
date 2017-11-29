@@ -14,7 +14,7 @@ The following steps show how to make an IPython kernel (even if it is in a conda
    pip install ipykernel
    ```
    
-3. Create your kernel. Assign it a name (`<name>`) and, optionally, a *display* name to be shown in the Jupyter Notebook menu (`<display_name>`):
+3. Create your kernel. Assign it a `<name>` and, optionally, a `<display_name>` to be shown in the Jupyter Notebook menu:
 
    ```
    python -m ipykernel install --user --name <name> --display_name <display_name>
