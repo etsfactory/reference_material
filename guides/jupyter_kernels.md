@@ -20,8 +20,7 @@ The following steps show how to make an IPython kernel (even if it is in a conda
    python -m ipykernel install --user --name <name> --display_name <display_name>
    ```
    
-   **Note:** This will create a user-specific kernelspec directory describing the kernel so that it is locatable by every Jupyter installation.
-   If you want to list the kernels available to any Jupyter executable type:
+   **Note:** Since we have passed the `--user` option, this will create a user-specific kernelspec directory describing the kernel so that it is locatable by every Jupyter installation. Non-user kernels can be also available. You can list the kernels available to any Jupyter executable as follows:
    
    ```
    jupyter kernelspec list
