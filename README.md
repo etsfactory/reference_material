@@ -4,7 +4,7 @@ This repo contains guides and other reference material that may be useful when l
 ## Guides
 - [How to set up a conda environment for data science](guides/conda.md)
 - How to set up a Jupyter Dashboard server/client
-- How to add new (IPython) kernels to Jupyter
+- [How to add new kernels to Jupyter](guides/jupyter_kernels.md)
 - [How to connect Atom's Hydrogen to remote kernels](https://nteract.gitbooks.io/hydrogen/docs/Usage/RemoteKernelConnection.html)
 - [How to use the line profiler](guides/profiler.md)
 - [How to customize Jupyter Notebooks](guides/customize_jupyter_nb.md)
