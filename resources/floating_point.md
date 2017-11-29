@@ -1,4 +1,4 @@
-#Floating-point arithmetic resources
+# Floating-point arithmetic resources
 
 - [Basic introduction to floating point representations](http://floating-point-gui.de/)
 - [What every computer scientist should know about floating-point arithmetic](https://docs.oracle.com/cd/E19957-01/806-3568/ncg_goldberg.html)
