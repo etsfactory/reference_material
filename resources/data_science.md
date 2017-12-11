@@ -2,6 +2,7 @@
 
 ## Statistics
 - [Think Stats by Allen B. Downey (O'Reilly book)](http://greenteapress.com/wp/think-stats-2e/)
+- [Statistics 1B by David Spiegelhalter: Estimation and Hypothesis Testing](http://www.statslab.cam.ac.uk/Dept/People/djsteaching/teaching17.html)
 
 ## Time-series / Sequential data
 - [Forecasting: principles and practice](https://www.otexts.org/fpp)
