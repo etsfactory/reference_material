@@ -95,6 +95,7 @@
 #### FAQ:
 
 - [Indexing and selecting](http://pyciencia.blogspot.com.es/2015/05/obtener-y-filtrar-datos-de-un-dataframe.html) (loc, iloc, at, iat, ix)
+- [SettingWithCopyWarning](https://www.dataquest.io/blog/settingwithcopywarning/)
 
 #### Pandas internals:
 
