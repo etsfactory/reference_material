@@ -16,3 +16,6 @@
 
 - [Oxford MFE Toolbox](http://www.kevinsheppard.com/MFE_Toolbox) (Matlab only), some of the functionalities have been ported to Python: [bashtage/arch](https://github.com/bashtage/arch). Both by Kevin Sheppard.
 - [PyFlux](http://www.pyflux.com/): general time-series modelling
+
+## Collections
+- [CRAN Task View: Empirical Finance](https://cran.r-project.org/web/views/Finance.html): R libraries for quantitative finance 
