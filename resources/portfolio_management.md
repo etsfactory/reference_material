@@ -1,0 +1,15 @@
+Some references related with Portfolio Management:
+
+- [portfolio_optimization](http://nbviewer.jupyter.org/github/cvxgrp/cvx_short_course/blob/master/applications/portfolio_optimization.ipynb) (notebook)
+- [Markovitz portfolios](https://github.com/seanhomstadmcdonald/MarkowitzPortfolioOptimization/blob/1d0209785fa959244a55d19ae2184223d0149adf/Markowitz%20Portfolio%20Optimization.ipynb) (notebook)
+- [financial engeniering risk management I](https://github.com/pjIowa/ferm_p1)  (repo)
+- [financial engeniering risk management II](https://github.com/pjIowa/ferm_p2)  (repo)
+- [computational investing](https://github.com/Mistobaan/compinvesting1-004/tree/5cfb2d609cf4c89f71fbb862581c1da4111bdecf)  (repo)
+- [ml4t](https://github.com/sbalajis/ml4t/tree/52fcc2932c277f0195a0456f949161a3911c5366)  (repo)
+- [stat_222_chris_carmona](https://github.com/christianu7/stat_222_chris_carmona/tree/ea5006c68585e5bef43754004bf7430810d07981) (repo)
+- [efficient-frontier](https://github.com/psthomas/efficient-frontier/tree/67adb335d5ac12f4439ab3633a2a823bd9417b6f) (repo)
+- [FE_AlgoT_ML4T](https://github.com/Leoezio/FE_AlgoT_ML4T/tree/52fcc2932c277f0195a0456f949161a3911c5366) (repo)
+- [books](https://github.com/tschm/epfl/tree/1f48e6b556896c4c51f37fb76235278391f7c87d/books) (repo)
+- [cvx_short_course](https://github.com/cvxgrp/cvx_short_course) (repo)
+- [portfolio-optimizations](https://github.com/tomyitav/portfolio-optimizations) (repo)
+- [crypto-portfolio-optimization](https://github.com/omkardash/crypto-portfolio-optimization/blob/master/crypto-portfolio-optimization.ipynb) 
