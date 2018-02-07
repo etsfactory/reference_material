@@ -33,3 +33,6 @@
     - [PortfolioAnalytics: Portfolio Analysis, Including Numerical Methods for Optimization of Portfolios](https://cran.r-project.org/web/packages/PortfolioAnalytics/index.html)
     - [PerformanceAnalytics: Econometric tools for performance and risk analysis](https://cran.r-project.org/web/packages/PerformanceAnalytics/index.html)
  
+ ## Reference
+ 
+ - [Indicators](http://www.chart-formations.com/indicators/default.aspx)
