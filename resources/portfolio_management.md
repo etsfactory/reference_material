@@ -13,3 +13,4 @@ Some references related with Portfolio Management:
 - [cvx_short_course](https://github.com/cvxgrp/cvx_short_course) (repo)
 - [portfolio-optimizations](https://github.com/tomyitav/portfolio-optimizations) (repo)
 - [crypto-portfolio-optimization](https://github.com/omkardash/crypto-portfolio-optimization/blob/master/crypto-portfolio-optimization.ipynb) 
+- [alpha-mind](https://github.com/alpha-miner/alpha-mind/tree/master) (Project + examples/notebooks)
