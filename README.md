@@ -31,6 +31,7 @@ This repo contains guides and other reference material that may be useful when l
 
 ## Online books
 - [Convex optimization, S. Boyd and L. Vandenberghe](http://stanford.edu/~boyd/cvxbook/)
+- [An Introduction to Statistical Learning with Applications in R, G. James, D. Witten, T. Hastie and R. Tibshirani](http://www-bcf.usc.edu/~gareth/ISL/)
 - [The Elements of Statistical Learning, Data Mining, Inference, and Prediction, T. Hastie, R. Tibshirani and J. Friedman](https://statweb.stanford.edu/~tibs/ElemStatLearn/)
 - [Deep Learning, I. Goodfellow, Y. Bengio and A. Courville](http://www.deeplearningbook.org/)
 - [Neural Networks and Deep Learning, M. Nielsen](http://neuralnetworksanddeeplearning.com)
