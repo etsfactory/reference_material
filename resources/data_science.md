@@ -16,4 +16,6 @@
 ### XGBoost
 - Course: [Practical XGBoost in Python](http://education.parrotprediction.teachable.com/p/practical-xgboost-in-python)
 
+### Jupyter
 
+- [awesome-jupyter](https://github.com/markusschanta/awesome-jupyter) : A curated list of awesome Jupyter projects, libraries and resources 
