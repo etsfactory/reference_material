@@ -1,5 +1,12 @@
-# How to use the IPython profiler
+# How to profile your code in IPython
 ## Line profiling
+### Using the built-in [prun magic](http://ipython.readthedocs.io/en/stable/interactive/magics.html#magic-prun)
+
+```
+%prun foo(1000)
+```
+
+### Using the [line-profiler](https://github.com/rkern/line_profiler) extension
 In a command line:
 
 ```
