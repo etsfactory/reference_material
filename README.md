@@ -23,6 +23,7 @@ This repo contains guides and other reference material that may be useful when l
 - [Software design & modelling](resources/software.md)
 
 ## Online courses / Video lectures
+- [Optimization Methods for Business Analytics @ edX](https://www.edx.org/course/optimization-methods-business-analytics-mitx-15-053x)
 - [Linear Algebra by Gilbert Strang @ MIT OCW](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
 - [Convex Optimization Short Course by Stephen Boyd](http://stanford.edu/~boyd/papers/cvx_short_course)
 - [Machine Learning by Andrew Ng @ Coursera](https://www.coursera.org/learn/machine-learning)
@@ -31,6 +32,7 @@ This repo contains guides and other reference material that may be useful when l
 - [Statistical Learning by Hastie & Tibshirani @ Stanford](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/)
 
 ## Online books
+- [Applied Mathematical Programming, Bradley, Hax, and Magnanti](http://web.mit.edu/15.053/www/AMP.htm)
 - [Convex optimization, S. Boyd and L. Vandenberghe](http://stanford.edu/~boyd/cvxbook/)
 - [An Introduction to Statistical Learning with Applications in R, G. James, D. Witten, T. Hastie and R. Tibshirani](http://www-bcf.usc.edu/~gareth/ISL/)
 - [The Elements of Statistical Learning, Data Mining, Inference, and Prediction, T. Hastie, R. Tibshirani and J. Friedman](https://web.stanford.edu/~hastie/ElemStatLearn/)
