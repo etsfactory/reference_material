@@ -54,6 +54,22 @@
 - [Numexpr](https://github.com/pydata/numexpr)
 - [Cupy (Numpy + Cuda)](https://github.com/cupy/cupy)
 
+## Interfacing with other languages
+Some of them can be regarded as ways to accelerate Python computations:
+
+### C
+- [Python by the C side](https://www.paypal-engineering.com/2016/09/22/python-by-the-c-side/), a summary of alternatives (maybe missing Numba)
+- [Calling C Libraries from Numba Using CFFI](http://nbviewer.jupyter.org/github/synapticarbors/rmath-cffi-example/blob/master/rmath-cffi-example.ipynb)
+
+### Fortran
+- [f2py](https://docs.scipy.org/doc/numpy/f2py/)
+
+### .NET
+- [Python for .NET (`pythonnet`](https://pythonnet.github.io/)
+
+### Matlab
+- [MATLAB API for Python](https://es.mathworks.com/help/matlab/matlab-engine-for-python.html)
+
 ## IPython
 - [IPython or Jupyter?](https://www.datacamp.com/community/blog/ipython-jupyter#gs.gMegJxs)
 - [What is IPython? (Python vs IPython vs Jupyter)](https://plot.ly/python/ipython-vs-python/)
