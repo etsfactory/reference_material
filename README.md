@@ -6,7 +6,7 @@ This repo contains guides and other reference material that may be useful when l
 - How to set up a Jupyter Dashboard server/client
 - [How to add new kernels to Jupyter](guides/jupyter_kernels.md)
 - [How to connect Atom's Hydrogen to remote kernels](https://nteract.gitbooks.io/hydrogen/docs/Usage/RemoteKernelConnection.html)
-- [How to use the line profiler](guides/profiler.md)
+- [How to profile your code in IPython](guides/profiler.md)
 - [How to customize Jupyter Notebooks](guides/customize_jupyter_nb.md)
 - [How to create statically-linked `manylinux` wheels](guides/static_manylinux_wheels.md)
 - [How to clean out your Docker images, containers and volumes with single commands](https://hackernoon.com/clean-out-your-docker-images-containers-and-volumes-with-single-commands-b8e38253c271)
