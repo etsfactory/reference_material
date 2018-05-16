@@ -96,7 +96,7 @@ Some of them can be regarded as ways to accelerate Python computations:
 - What is [array_like](http://stackoverflow.com/questions/8216975/terminology-python-and-numpy-iterable-versus-array-like)?
 
 #### Performance:
-
+- [Losing your loops](https://speakerdeck.com/jakevdp/losing-your-loops-fast-numerical-computing-with-numpy-pycon-2015) by Jake VanderPlas
 - [Numpy](http://ipython-books.github.io/featured-01/)
 - [pure Python vs Numpy](http://scipy.github.io/old-wiki/pages/PerformanceTips)
 
