@@ -4,6 +4,7 @@
 - [Atlassian Git tutorial](https://www.atlassian.com/git/tutorials/)
 
 ## Short tutorials
+- [A visual git reference](https://marklodato.github.io/visual-git-guide/index-en.html)
 - [Gitref](http://git.github.io/git-reference/)
 - [A collection of cool hidden and not so hidden features of Git and GitHub.](http://git.io/sheet)
 
