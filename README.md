@@ -30,6 +30,7 @@ This repo contains guides and other reference material that may be useful when l
 - Artificial Intelligence, Berkeley's CS 188 @ edX | [Spring 2015](https://courses.edx.org/courses/BerkeleyX/CS188.1x-4/1T2015/20021a0a32d14a31b087db8d4bb582fd/) | Fall 2014 ([videos](https://www.youtube.com/watch?v=W1S-HSakPTM), [slides](https://edge.edx.org/courses/BerkeleyX/CS188-FA14/FA14/20021a0a32d14a31b087db8d4bb582fd/))
 - [Machine Learning for Trading, Georgia Tech CS 7646 @ Udacity](https://www.udacity.com/course/machine-learning-for-trading--ud501)
 - [Statistical Learning by Hastie & Tibshirani @ Stanford](https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/)
+- [Reinforcement Learning in Finance @ Coursera](https://www.coursera.org/learn/reinforcement-learning-in-finance])
 
 ## Online books
 - [Applied Mathematical Programming, Bradley, Hax, and Magnanti](http://web.mit.edu/15.053/www/AMP.htm)
