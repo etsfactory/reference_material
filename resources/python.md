@@ -6,6 +6,7 @@
   - [Code like a Pythonist](http://python.net/~goodger/projects/pycon/2007/idiomatic/)
   - Summary: [Python cheat sheet](https://drive.google.com/file/d/0ByIrJAE4KMTtWGZmQXBPai1NQWM/view) by Mark Graph
 - Long
+  - [Python for everybody](https://www.py4e.com/lessons), online course (no previous programming experience required)
   - [Basic Tutorial Python 3](http://www.python-course.eu/python3_course.php)
   - [Official Python 3 documentation](https://docs.python.org/3/)
   - [Introduction to Python for Econometrics, Statistics and Numerical Analysis](https://www.kevinsheppard.com/Python_for_Econometrics) by Kevin Sheppard (covers some pretty advanced topics)
