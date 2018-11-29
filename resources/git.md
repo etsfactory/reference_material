@@ -18,4 +18,4 @@
 - [Building Git from scratch: yet another parable](http://matthew-brett.github.io/pydagogue/foundation.html)
 
 ## Tools
-- [Git history editor](https://bokub.github.io/git-history-editor/)
+- [Git history editor](https://bokub.github.io/git-history-editor/), upload your git log, edit interactively, and get a filter to be applied using `git filter-branch`
