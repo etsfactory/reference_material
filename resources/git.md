@@ -16,3 +16,6 @@
 - [Understanding git conceptually](https://www.sbf5.com/~cduan/technical/git/)
 - [The Git parable](http://practical-neuroimaging.github.io/git_parable.html)
 - [Building Git from scratch: yet another parable](http://matthew-brett.github.io/pydagogue/foundation.html)
+
+## Tools
+- [Git history editor](https://bokub.github.io/git-history-editor/)
