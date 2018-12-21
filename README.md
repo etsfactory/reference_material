@@ -8,7 +8,7 @@ This repo contains guides and other reference material that may be useful when l
 - [How to connect Atom's Hydrogen to remote kernels](https://nteract.gitbooks.io/hydrogen/docs/Usage/RemoteKernelConnection.html)
 - [How to profile your code in IPython](guides/profiler.md)
 - [How to customize Jupyter Notebooks](guides/customize_jupyter_nb.md)
-- How to create statically-linked wheels: [`manylinux`](guides/static_manylinux_wheels.md), [MacOSX](guides/static_macosx_wheels.md)
+- How to create statically-linked wheels: [`manylinux`](guides/static_manylinux_wheels.md), [Mac OS X](guides/static_macosx_wheels.md)
 
 - [How to clean out your Docker images, containers and volumes with single commands](https://hackernoon.com/clean-out-your-docker-images-containers-and-volumes-with-single-commands-b8e38253c271)
 
