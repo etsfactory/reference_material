@@ -13,7 +13,7 @@
 
 - [Git 1](http://ndpsoftware.com/git-cheatsheet.html)
 - [Git 2](https://duckduckgo.com/?q=git+cheat+sheet&t=h_&ia=cheatsheet&iax=1)
-- [Git 3](https://ndpsoftware.com/git-cheatsheet.htmlh)
+- [Git 3](https://ndpsoftware.com/git-cheatsheet.html)
 
 ## Docker
 
