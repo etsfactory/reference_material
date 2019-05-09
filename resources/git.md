@@ -8,6 +8,7 @@
 - [A visual git reference](https://marklodato.github.io/visual-git-guide/index-en.html)
 - [Gitref](http://git.github.io/git-reference/)
 - [A collection of cool hidden and not so hidden features of Git and GitHub.](http://git.io/sheet)
+- [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
 
 ## Interactive guides
 - [Explain Git with D3](http://onlywei.github.io/explain-git-with-d3/)
