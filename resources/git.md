@@ -2,7 +2,6 @@
 ## Long tutorials
 - [Pro Git book](https://git-scm.com/book/en/v2)
 - [Atlassian Git tutorial](https://www.atlassian.com/git/tutorials/)
-- [Git flight rules](https://github.com/k88hudson/git-flight-rules), long but short answers about how to do somenthing in git.
 
 ## Short tutorials
 - [A visual git reference](https://marklodato.github.io/visual-git-guide/index-en.html)
